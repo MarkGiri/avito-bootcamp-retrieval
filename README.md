@@ -21,7 +21,7 @@ candidate_data/
 
 ## Google Colab
 
-[![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkGiri/avito-bootcamp-retrieval/blob/main/solution.ipynb)
+[![Открыть в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1opDcAgPKOzYOpxMFXKtTOiHn1fxRVeLh?usp=sharing)
 
 ## Подход
 
